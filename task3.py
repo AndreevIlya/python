@@ -1,0 +1,5 @@
+number = input("Give me a number: ")
+doubled_number = int(number * 2)
+tripled_number = int(number * 3)
+number = int(number)
+print(f"n + nn + nnn = {number + doubled_number + tripled_number}")
