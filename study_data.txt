@@ -1,0 +1,6 @@
+Informatics: 100(lectures) 50(practice) 40(labs)
+Maths: 150(lectures) 60(practice) -
+Physics: 70(lectures) 60(practice) 80(labs)
+Chemistry: 60(lectures) - 90(labs)
+Russian: 90(lectures) 80(practice) -
+Swimming: - 40(practice) -
